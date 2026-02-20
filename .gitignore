@@ -60,3 +60,5 @@ vite.config.ts.timestamp-*
 .DS_Store
 pnpm-lock.yaml
 .turbo
+*storybook.log
+storybook-static
